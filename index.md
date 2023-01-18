@@ -4,3 +4,6 @@
   <h1> Example of a header 1
   <h2> Example of a header 2. <i> and Example of italic ?  
   
+    ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+    
+    
