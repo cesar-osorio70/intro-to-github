@@ -16,3 +16,6 @@
   $git init
   This initialises agithup repository with defaul branch name
   ```
+
+  
+  # Just adding the comments on the right banch!
