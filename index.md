@@ -10,4 +10,9 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
     
-   
+# Adding some code snip
+
+  ```
+  $git init
+  This initialises agithup repository with defaul branch name
+  ```
